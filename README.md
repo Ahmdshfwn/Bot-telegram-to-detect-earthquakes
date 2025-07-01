@@ -6,3 +6,8 @@ This is a simple bot to detect earthquakes from the BMKG API, I apologize if the
 ```
 npm install
 ```
+## settings your bot token in file .env
+## and then :
+``
+npm run dev
+``
