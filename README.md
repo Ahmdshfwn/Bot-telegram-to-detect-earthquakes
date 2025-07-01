@@ -8,6 +8,6 @@ npm install
 ```
 ## settings your bot token in file .env
 ## and then :
-``
+```
 npm run dev
-``
+```
